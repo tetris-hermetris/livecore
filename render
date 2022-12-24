@@ -11,6 +11,7 @@ NIM_FLAGS=$(
 --cincludes:dsp/ffi/soundpipe/h
 --passC:-ffast-math
 --styleCheck:usages
+-d:nimPreviewSlimSystem
 EOF
 )
 

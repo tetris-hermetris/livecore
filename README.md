@@ -14,7 +14,7 @@ WIP with
 
 ## Dependencies
 
-- [Nim](https://nim-lang.org) 1.7.3 (d26b1232ee7a69c2a71db81aa0185499321c54fe)
+- [Nim](https://nim-lang.org) 1.9.1 (86a6c90c9e23f2e79d9d43927e114eedec0c230d)
 - [fswatch](http://emcrisostomo.github.io/fswatch/) 1.17.1
 - [libsndfile](http://www.mega-nerd.com/libsndfile/) 1.1.0
 - [liblo](http://liblo.sourceforge.net/) 0.31

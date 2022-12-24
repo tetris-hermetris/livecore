@@ -12,6 +12,7 @@ NIM_FLAGS=$(
 --cincludes:dsp/ffi/soundpipe/h
 --passC:-ffast-math
 --styleCheck:usages
+-d:nimPreviewSlimSystem
 EOF
 )
 # dlopen tries really hard to reuse shared objects. The simplest way I've found

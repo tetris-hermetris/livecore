@@ -1,4 +1,7 @@
-import math, parseopt, session, strutils, times, dsp/frame, server/ffi/sndfile, server/context
+import
+  std/[assertions, math, parseopt, strutils, syncio, times],
+  dsp/frame, server/ffi/sndfile, server/context,
+  session
 
 let t0 = epoch_time()
 

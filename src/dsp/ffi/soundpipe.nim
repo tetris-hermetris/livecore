@@ -88,6 +88,8 @@
 {.compile: "soundpipe/tangled/t_scale.c".}
 {.compile: "soundpipe/tangled/t_vardelay.c".}
 
+import std/syncio
+
 const
   SP_BUFSIZE* = 4096
 
